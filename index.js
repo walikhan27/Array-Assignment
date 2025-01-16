@@ -1,4 +1,4 @@
-const cities = [
+var cities = [
     "Karachi", "Lahore", "Faisalabad", "Rawalpindi", "Multan","Hyderabad", "Gujranwala", 
     "Peshawar", "Quetta","Islamabad", "Sialkot", "Bahawalpur", "Sukkur","Larkana", 
     "Mingora", "Sahiwal", "Dera Ghazi Khan","Mirpur Khas", "Chiniot", "Okara"];
